@@ -1,0 +1,7 @@
+# Requirements.txt
+
+# Aqui estão nossos quesitos
+
+requests==2.26.0
+flask==2.0.2
+numpy==1.21.2
